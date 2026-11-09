@@ -1,0 +1,30 @@
+name: Terminology correction
+description: Submit a specific, well-sourced correction to the public atlas
+title: "[Term correction] CP-###: "
+body:
+  - type: input
+    id: term
+    attributes:
+      label: CP identifier
+      placeholder: CP-001
+    validations:
+      required: true
+  - type: textarea
+    id: issue
+    attributes:
+      label: Current wording and proposed change
+      description: Avoid private accusations and identifying personal information.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Supporting sources
+      description: Prefer primary or peer-reviewed evidence with exact references.
+    validations:
+      required: true
+  - type: textarea
+    id: competing
+    attributes:
+      label: Alternative interpretation
+      description: What would make the original claim or classification wrong?

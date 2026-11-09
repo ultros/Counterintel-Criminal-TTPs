@@ -1,0 +1,18 @@
+# Editorial outputs and local development files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+# Keep unpublished book materials out of the public repository
+private/
+manuscript/
+drafts/
+book/
+*.docx
+*.pdf
+*.zip

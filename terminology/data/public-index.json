@@ -1,0 +1,3714 @@
+{
+  "title": "Criminal Psychology: The 500-Tactic Atlas",
+  "version": "0.1-public",
+  "updated": "2026-11-08",
+  "labels": {
+    "E": "Recognized concept",
+    "D": "Working descriptor",
+    "Q": "Qualified / contested"
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Reactive traps & manufactured threats",
+      "deck": "How warnings and interventions can help produce the very behavior later cited as proof.",
+      "first_id": "CP-001",
+      "last_id": "CP-020",
+      "slug": "01-reactive-traps-manufactured-threats.md"
+    },
+    {
+      "number": 2,
+      "title": "Judgment, bias & decision errors",
+      "deck": "Ordinary mental shortcuts that deception can exploit, without implying that every biased judgment is malicious.",
+      "first_id": "CP-021",
+      "last_id": "CP-040",
+      "slug": "02-judgment-bias-decision-errors.md"
+    },
+    {
+      "number": 3,
+      "title": "Memory, perception & witness reliability",
+      "deck": "Why genuine witnesses can diverge and why collecting first accounts matters.",
+      "first_id": "CP-041",
+      "last_id": "CP-060",
+      "slug": "03-memory-perception-witness-reliability.md"
+    },
+    {
+      "number": 4,
+      "title": "Narrative control & information distortion",
+      "deck": "Claims can be altered by omissions, repetition, selective detail, and deceptive provenance.",
+      "first_id": "CP-061",
+      "last_id": "CP-080",
+      "slug": "04-narrative-control-information-distortion.md"
+    },
+    {
+      "number": 5,
+      "title": "Groups, reputations & social influence",
+      "deck": "How collective beliefs and interpersonal networks alter responsibility, loyalty, and dissent.",
+      "first_id": "CP-081",
+      "last_id": "CP-100",
+      "slug": "05-groups-reputations-social-influence.md"
+    },
+    {
+      "number": 6,
+      "title": "Coercion, threats & compliance",
+      "deck": "Pressure that substitutes fear, dependency, or consequences for freely informed consent.",
+      "first_id": "CP-101",
+      "last_id": "CP-120",
+      "slug": "06-coercion-threats-compliance.md"
+    },
+    {
+      "number": 7,
+      "title": "Abusive relationships & interpersonal control",
+      "deck": "Patterns that can occur in intimate, family, workplace, or mentorship relationships.",
+      "first_id": "CP-121",
+      "last_id": "CP-140",
+      "slug": "07-abusive-relationships-interpersonal-control.md"
+    },
+    {
+      "number": 8,
+      "title": "Identity, authority & impersonation",
+      "deck": "How claims of role, credential, status, or personal identity alter trust.",
+      "first_id": "CP-141",
+      "last_id": "CP-160",
+      "slug": "08-identity-authority-impersonation.md"
+    },
+    {
+      "number": 9,
+      "title": "Confidence games & fraudulent persuasion",
+      "deck": "Trust is cultivated, borrowed, or simulated to shift risk from an offender onto a target.",
+      "first_id": "CP-161",
+      "last_id": "CP-180",
+      "slug": "09-confidence-games-fraudulent-persuasion.md"
+    },
+    {
+      "number": 10,
+      "title": "Money, assets & economic leverage",
+      "deck": "Mechanisms of profit extraction and methods of hiding who bears the loss.",
+      "first_id": "CP-181",
+      "last_id": "CP-200",
+      "slug": "10-money-assets-economic-leverage.md"
+    },
+    {
+      "number": 11,
+      "title": "Sexual exploitation, grooming & consent",
+      "deck": "Non-operational vocabulary for recognizing exploitative patterns while avoiding stereotypes about survivors.",
+      "first_id": "CP-201",
+      "last_id": "CP-220",
+      "slug": "11-sexual-exploitation-grooming-consent.md"
+    },
+    {
+      "number": 12,
+      "title": "Criminal networks, roles & internal incentives",
+      "deck": "The social architecture of enterprises that coordinate sustained unlawful conduct.",
+      "first_id": "CP-221",
+      "last_id": "CP-240",
+      "slug": "12-criminal-networks-roles-internal-incentives.md"
+    },
+    {
+      "number": 13,
+      "title": "Corruption, office misuse & institutional capture",
+      "deck": "Separate actual misconduct from the mere appearance of improper access or suspicious outcomes.",
+      "first_id": "CP-241",
+      "last_id": "CP-260",
+      "slug": "13-corruption-office-misuse-institutional-capture.md"
+    },
+    {
+      "number": 14,
+      "title": "Stalking, harassment & intrusion",
+      "deck": "Patterns of unwanted contact and boundary crossing, assessed through behavior rather than motive speculation.",
+      "first_id": "CP-261",
+      "last_id": "CP-280",
+      "slug": "14-stalking-harassment-intrusion.md"
+    },
+    {
+      "number": 15,
+      "title": "Threat assessment, aggression & escalation",
+      "deck": "Behavior-based concepts for assessing risk without treating any one sign as proof of violent intent.",
+      "first_id": "CP-281",
+      "last_id": "CP-300",
+      "slug": "15-threat-assessment-aggression-escalation.md"
+    },
+    {
+      "number": 16,
+      "title": "Crime scene behavior & offender inference",
+      "deck": "Useful investigative concepts with strict limits on inferring character or diagnosis from a scene.",
+      "first_id": "CP-301",
+      "last_id": "CP-320",
+      "slug": "16-crime-scene-behavior-offender-inference.md"
+    },
+    {
+      "number": 17,
+      "title": "Interviewing, questioning & confessions",
+      "deck": "The psychology of information collection, procedural fairness, and unreliable admissions.",
+      "first_id": "CP-321",
+      "last_id": "CP-340",
+      "slug": "17-interviewing-questioning-confessions.md"
+    },
+    {
+      "number": 18,
+      "title": "Evidence, timelines & provenance",
+      "deck": "What documentary and digital records actually establish, and what they cannot prove without additional context.",
+      "first_id": "CP-341",
+      "last_id": "CP-360",
+      "slug": "18-evidence-timelines-provenance.md"
+    },
+    {
+      "number": 19,
+      "title": "Digital deception & social engineering",
+      "deck": "Human-facing digital attacks, described at the recognition level rather than as procedures for committing them.",
+      "first_id": "CP-361",
+      "last_id": "CP-380",
+      "slug": "19-digital-deception-social-engineering.md"
+    },
+    {
+      "number": 20,
+      "title": "Cybercrime incentives & digital identity",
+      "deck": "Motivations and social structures behind digital offending, not exploit instructions.",
+      "first_id": "CP-381",
+      "last_id": "CP-400",
+      "slug": "20-cybercrime-incentives-digital-identity.md"
+    },
+    {
+      "number": 21,
+      "title": "Strategic deception, influence & intelligence concepts",
+      "deck": "Analytical vocabulary for understanding adversarial information, without assuming covert involvement in ordinary disputes.",
+      "first_id": "CP-401",
+      "last_id": "CP-420",
+      "slug": "21-strategic-deception-influence-intelligence-concepts.md"
+    },
+    {
+      "number": 22,
+      "title": "Platforms, online mobs & information ecosystems",
+      "deck": "Mechanisms through which networked attention amplifies, distorts, and sometimes monetizes hostility.",
+      "first_id": "CP-421",
+      "last_id": "CP-440",
+      "slug": "22-platforms-online-mobs-information-ecosystems.md"
+    },
+    {
+      "number": 23,
+      "title": "Belief systems, high-control groups & radicalization",
+      "deck": "Distinguish lawful religion or eccentric belief from coercion, exploitation, and demonstrable harmful behavior.",
+      "first_id": "CP-441",
+      "last_id": "CP-460",
+      "slug": "23-belief-systems-high-control-groups-radicalization.md"
+    },
+    {
+      "number": 24,
+      "title": "Trauma, victim experience & recovery",
+      "deck": "Human responses after coercion or violence should not be mistaken for indicators of guilt or dishonesty.",
+      "first_id": "CP-461",
+      "last_id": "CP-480",
+      "slug": "24-trauma-victim-experience-recovery.md"
+    },
+    {
+      "number": 25,
+      "title": "Research discipline, ethics & analytical safeguards",
+      "deck": "Controls against turning an intriguing theory into an unsupported accusation.",
+      "first_id": "CP-481",
+      "last_id": "CP-500",
+      "slug": "25-research-discipline-ethics-analytical-safeguards.md"
+    }
+  ],
+  "entries": [
+    {
+      "id": "CP-001",
+      "chapter": 1,
+      "title": "Induced-Threat Provocation via Causal Concealment",
+      "type": "D",
+      "public_definition": "A warning conceals that the warned person's intervention is what could trigger the predicted reaction."
+    },
+    {
+      "id": "CP-002",
+      "chapter": 1,
+      "title": "Self-Fulfilling Prophecy",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-003",
+      "chapter": 1,
+      "title": "Behavioral Confirmation",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-004",
+      "chapter": 1,
+      "title": "Provocation Trap",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-005",
+      "chapter": 1,
+      "title": "Double Bind",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-006",
+      "chapter": 1,
+      "title": "Manufactured Emergency",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-007",
+      "chapter": 1,
+      "title": "Preemptive Blame Placement",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-008",
+      "chapter": 1,
+      "title": "Baited Confrontation",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-009",
+      "chapter": 1,
+      "title": "Contingency Concealment",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-010",
+      "chapter": 1,
+      "title": "Reactive Abuse Narrative",
+      "type": "Q",
+      "public_definition": null
+    },
+    {
+      "id": "CP-011",
+      "chapter": 1,
+      "title": "False Choice Architecture",
+      "type": "D",
+      "public_definition": "Available options are arranged to conceal a reasonable alternative or make every visible option costly."
+    },
+    {
+      "id": "CP-012",
+      "chapter": 1,
+      "title": "Threat Inflation",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-013",
+      "chapter": 1,
+      "title": "Protective Pretext",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-014",
+      "chapter": 1,
+      "title": "Crisis Dependency",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-015",
+      "chapter": 1,
+      "title": "Anticipatory Retaliation",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-016",
+      "chapter": 1,
+      "title": "Escalation by Interposition",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-017",
+      "chapter": 1,
+      "title": "Intent Attribution Shortcut",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-018",
+      "chapter": 1,
+      "title": "Conflict Entrapment",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-019",
+      "chapter": 1,
+      "title": "Reassurance Sabotage",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-020",
+      "chapter": 1,
+      "title": "Post Hoc Threat Validation",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-021",
+      "chapter": 2,
+      "title": "Confirmation Bias",
+      "type": "E",
+      "public_definition": "Information supporting an existing belief receives more attention or weight than disconfirming evidence."
+    },
+    {
+      "id": "CP-022",
+      "chapter": 2,
+      "title": "Anchoring Effect",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-023",
+      "chapter": 2,
+      "title": "Availability Heuristic",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-024",
+      "chapter": 2,
+      "title": "Framing Effect",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-025",
+      "chapter": 2,
+      "title": "Fundamental Attribution Error",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-026",
+      "chapter": 2,
+      "title": "Actor-Observer Asymmetry",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-027",
+      "chapter": 2,
+      "title": "Hindsight Bias",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-028",
+      "chapter": 2,
+      "title": "Outcome Bias",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-029",
+      "chapter": 2,
+      "title": "Sunk-Cost Fallacy",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-030",
+      "chapter": 2,
+      "title": "Loss Aversion",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-031",
+      "chapter": 2,
+      "title": "Scarcity Effect",
+      "type": "E",
+      "public_definition": "Limited availability increases perceived value or urgency, sometimes independent of merit."
+    },
+    {
+      "id": "CP-032",
+      "chapter": 2,
+      "title": "Ambiguity Aversion",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-033",
+      "chapter": 2,
+      "title": "Authority Bias",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-034",
+      "chapter": 2,
+      "title": "Halo Effect",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-035",
+      "chapter": 2,
+      "title": "Horn Effect",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-036",
+      "chapter": 2,
+      "title": "Base-Rate Neglect",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-037",
+      "chapter": 2,
+      "title": "Illusory Correlation",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-038",
+      "chapter": 2,
+      "title": "Belief Perseverance",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-039",
+      "chapter": 2,
+      "title": "Motivated Reasoning",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-040",
+      "chapter": 2,
+      "title": "Decision Fatigue",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-041",
+      "chapter": 3,
+      "title": "Misinformation Effect",
+      "type": "E",
+      "public_definition": "Misleading post-event information alters later recollection of an event."
+    },
+    {
+      "id": "CP-042",
+      "chapter": 3,
+      "title": "Source Monitoring Error",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-043",
+      "chapter": 3,
+      "title": "Memory Conformity",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-044",
+      "chapter": 3,
+      "title": "Co-Witness Contamination",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-045",
+      "chapter": 3,
+      "title": "Retrieval-Induced Forgetting",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-046",
+      "chapter": 3,
+      "title": "Flashbulb Memory",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-047",
+      "chapter": 3,
+      "title": "Weapon Focus Effect",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-048",
+      "chapter": 3,
+      "title": "Change Blindness",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-049",
+      "chapter": 3,
+      "title": "Inattentional Blindness",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-050",
+      "chapter": 3,
+      "title": "Own-Race Bias in Identification",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-051",
+      "chapter": 3,
+      "title": "Confidence Inflation",
+      "type": "E",
+      "public_definition": "Feedback or repeated identification may increase certainty without increasing original accuracy."
+    },
+    {
+      "id": "CP-052",
+      "chapter": 3,
+      "title": "Post-Identification Feedback Effect",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-053",
+      "chapter": 3,
+      "title": "Suggestive Questioning",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-054",
+      "chapter": 3,
+      "title": "Memory Reconsolidation",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-055",
+      "chapter": 3,
+      "title": "Temporal Telescoping",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-056",
+      "chapter": 3,
+      "title": "Schema-Driven Recall",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-057",
+      "chapter": 3,
+      "title": "Perceptual Set",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-058",
+      "chapter": 3,
+      "title": "Attentional Tunneling",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-059",
+      "chapter": 3,
+      "title": "Lineup Filler Bias",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-060",
+      "chapter": 3,
+      "title": "First-Account Preservation",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-061",
+      "chapter": 4,
+      "title": "Gaslighting",
+      "type": "E",
+      "public_definition": "Manipulation leads a person to doubt their perceptions, experiences, or understanding of events."
+    },
+    {
+      "id": "CP-062",
+      "chapter": 4,
+      "title": "Context Stripping",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-063",
+      "chapter": 4,
+      "title": "Selective Disclosure",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-064",
+      "chapter": 4,
+      "title": "Narrative Laundering",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-065",
+      "chapter": 4,
+      "title": "Evidence-Free Certainty",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-066",
+      "chapter": 4,
+      "title": "Misleading Juxtaposition",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-067",
+      "chapter": 4,
+      "title": "Cherry-Picking",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-068",
+      "chapter": 4,
+      "title": "False Balance",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-069",
+      "chapter": 4,
+      "title": "Whataboutism",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-070",
+      "chapter": 4,
+      "title": "Gish Gallop",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-071",
+      "chapter": 4,
+      "title": "Firehose of Falsehood",
+      "type": "E",
+      "public_definition": "High-volume, repetitive, multi-channel falsehoods can distort what an audience accepts."
+    },
+    {
+      "id": "CP-072",
+      "chapter": 4,
+      "title": "Illusory Truth Effect",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-073",
+      "chapter": 4,
+      "title": "Headline-Body Divergence",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-074",
+      "chapter": 4,
+      "title": "Quote Mining",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-075",
+      "chapter": 4,
+      "title": "False Corroboration",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-076",
+      "chapter": 4,
+      "title": "Source Laundering",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-077",
+      "chapter": 4,
+      "title": "Evidence Suppression Narrative",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-078",
+      "chapter": 4,
+      "title": "Inoculation Messaging",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-079",
+      "chapter": 4,
+      "title": "Prebunking",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-080",
+      "chapter": 4,
+      "title": "Narrative Lock-In",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-081",
+      "chapter": 5,
+      "title": "Triangulation",
+      "type": "E",
+      "public_definition": "A third party is drawn into an existing relationship or conflict to shift its dynamics."
+    },
+    {
+      "id": "CP-082",
+      "chapter": 5,
+      "title": "Scapegoating",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-083",
+      "chapter": 5,
+      "title": "Groupthink",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-084",
+      "chapter": 5,
+      "title": "Conformity Pressure",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-085",
+      "chapter": 5,
+      "title": "Pluralistic Ignorance",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-086",
+      "chapter": 5,
+      "title": "Bystander Effect",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-087",
+      "chapter": 5,
+      "title": "Diffusion of Responsibility",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-088",
+      "chapter": 5,
+      "title": "Social Proof",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-089",
+      "chapter": 5,
+      "title": "Reputational Cascades",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-090",
+      "chapter": 5,
+      "title": "Preference Falsification",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-091",
+      "chapter": 5,
+      "title": "Ostracism",
+      "type": "E",
+      "public_definition": "Exclusion from a group functions as social punishment or control."
+    },
+    {
+      "id": "CP-092",
+      "chapter": 5,
+      "title": "Moral Panic",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-093",
+      "chapter": 5,
+      "title": "Rumor Cascade",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-094",
+      "chapter": 5,
+      "title": "Coalition Splitting",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-095",
+      "chapter": 5,
+      "title": "Ingroup Favoritism",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-096",
+      "chapter": 5,
+      "title": "Outgroup Homogeneity Bias",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-097",
+      "chapter": 5,
+      "title": "Status Signaling",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-098",
+      "chapter": 5,
+      "title": "Norm Enforcement",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-099",
+      "chapter": 5,
+      "title": "Reputation Hostage-Taking",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-100",
+      "chapter": 5,
+      "title": "Social Isolation Campaign",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-101",
+      "chapter": 6,
+      "title": "Coercive Control",
+      "type": "E",
+      "public_definition": "A repeated pattern restricts another person's autonomy through intimidation, monitoring, isolation, or deprivation."
+    },
+    {
+      "id": "CP-102",
+      "chapter": 6,
+      "title": "Extortion",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-103",
+      "chapter": 6,
+      "title": "Blackmail",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-104",
+      "chapter": 6,
+      "title": "Duress",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-105",
+      "chapter": 6,
+      "title": "Intimidation",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-106",
+      "chapter": 6,
+      "title": "Ultimatum Framing",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-107",
+      "chapter": 6,
+      "title": "Forced Compliance Narrative",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-108",
+      "chapter": 6,
+      "title": "Fear Appeal",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-109",
+      "chapter": 6,
+      "title": "Protection Racket",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-110",
+      "chapter": 6,
+      "title": "Threat of Exposure",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-111",
+      "chapter": 6,
+      "title": "Economic Coercion",
+      "type": "E",
+      "public_definition": "Control over earnings, debt, employment, or necessities constrains another person's choices."
+    },
+    {
+      "id": "CP-112",
+      "chapter": 6,
+      "title": "Time-Pressure Coercion",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-113",
+      "chapter": 6,
+      "title": "Reward Withdrawal Threat",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-114",
+      "chapter": 6,
+      "title": "Conditional Safety Promise",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-115",
+      "chapter": 6,
+      "title": "Hostage Logic",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-116",
+      "chapter": 6,
+      "title": "Threat Ambiguity",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-117",
+      "chapter": 6,
+      "title": "Coercive Bargaining",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-118",
+      "chapter": 6,
+      "title": "Compliance Escalation",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-119",
+      "chapter": 6,
+      "title": "Restraint by Dependency",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-120",
+      "chapter": 6,
+      "title": "Exit Penalty",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-121",
+      "chapter": 7,
+      "title": "Isolation Tactic",
+      "type": "D",
+      "public_definition": "Relationships with friends, family, or advisers are restricted to reduce outside reality checks."
+    },
+    {
+      "id": "CP-122",
+      "chapter": 7,
+      "title": "Intermittent Reinforcement",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-123",
+      "chapter": 7,
+      "title": "Love Bombing",
+      "type": "Q",
+      "public_definition": null
+    },
+    {
+      "id": "CP-124",
+      "chapter": 7,
+      "title": "DARVO",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-125",
+      "chapter": 7,
+      "title": "Blame Shifting",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-126",
+      "chapter": 7,
+      "title": "Silent Treatment as Punishment",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-127",
+      "chapter": 7,
+      "title": "Financial Abuse",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-128",
+      "chapter": 7,
+      "title": "Technology-Facilitated Abuse",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-129",
+      "chapter": 7,
+      "title": "Boundary Testing",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-130",
+      "chapter": 7,
+      "title": "Minimization",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-131",
+      "chapter": 7,
+      "title": "Rationalization",
+      "type": "E",
+      "public_definition": "Explanations make objectionable actions seem reasonable after the fact."
+    },
+    {
+      "id": "CP-132",
+      "chapter": 7,
+      "title": "Infantilization",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-133",
+      "chapter": 7,
+      "title": "Isolation Through Jealousy",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-134",
+      "chapter": 7,
+      "title": "Coerced Reconciliation",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-135",
+      "chapter": 7,
+      "title": "Reproductive Coercion",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-136",
+      "chapter": 7,
+      "title": "Parental Alienating Behavior",
+      "type": "Q",
+      "public_definition": null
+    },
+    {
+      "id": "CP-137",
+      "chapter": 7,
+      "title": "Caregiver Exploitation",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-138",
+      "chapter": 7,
+      "title": "Workplace Mobbing",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-139",
+      "chapter": 7,
+      "title": "Retaliatory Complaining",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-140",
+      "chapter": 7,
+      "title": "Privacy Invasion as Intimacy",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-141",
+      "chapter": 8,
+      "title": "Authority Spoofing",
+      "type": "D",
+      "public_definition": "Someone presents a fabricated official capacity to obtain deference or compliance."
+    },
+    {
+      "id": "CP-142",
+      "chapter": 8,
+      "title": "Identity Theft",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-143",
+      "chapter": 8,
+      "title": "Identity Impersonation",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-144",
+      "chapter": 8,
+      "title": "Credential Misrepresentation",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-145",
+      "chapter": 8,
+      "title": "Badge Theater",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-146",
+      "chapter": 8,
+      "title": "Affinity Fraud",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-147",
+      "chapter": 8,
+      "title": "Title Inflation",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-148",
+      "chapter": 8,
+      "title": "False Endorsement",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-149",
+      "chapter": 8,
+      "title": "Credential Borrowing",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-150",
+      "chapter": 8,
+      "title": "Reputation Piggybacking",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-151",
+      "chapter": 8,
+      "title": "Impostor Syndrome",
+      "type": "E",
+      "public_definition": "A person's unwarranted doubts about their own legitimacy or competence; not evidence of actual fraud."
+    },
+    {
+      "id": "CP-152",
+      "chapter": 8,
+      "title": "Impostor Fraud",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-153",
+      "chapter": 8,
+      "title": "Role-Based Pretext",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-154",
+      "chapter": 8,
+      "title": "Institutional Camouflage",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-155",
+      "chapter": 8,
+      "title": "Deepfake Impersonation",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-156",
+      "chapter": 8,
+      "title": "Sockpuppet Identity",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-157",
+      "chapter": 8,
+      "title": "Catfishing",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-158",
+      "chapter": 8,
+      "title": "Name Collision Exploitation",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-159",
+      "chapter": 8,
+      "title": "Office-of-Authority Confusion",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-160",
+      "chapter": 8,
+      "title": "Verification Channel Capture",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-161",
+      "chapter": 9,
+      "title": "Confidence Trick",
+      "type": "E",
+      "public_definition": "A victim's trust is cultivated and then exploited for an unauthorized gain."
+    },
+    {
+      "id": "CP-162",
+      "chapter": 9,
+      "title": "Advance-Fee Fraud",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-163",
+      "chapter": 9,
+      "title": "Romance Scam",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-164",
+      "chapter": 9,
+      "title": "Grandparent Scam",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-165",
+      "chapter": 9,
+      "title": "Emergency Impostor Scam",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-166",
+      "chapter": 9,
+      "title": "Recovery Scam",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-167",
+      "chapter": 9,
+      "title": "Phantom Asset Scam",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-168",
+      "chapter": 9,
+      "title": "Bogus Escrow",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-169",
+      "chapter": 9,
+      "title": "Affinity Pitch",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-170",
+      "chapter": 9,
+      "title": "Proof-of-Wealth Theater",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-171",
+      "chapter": 9,
+      "title": "Fake Scarcity Offer",
+      "type": "D",
+      "public_definition": "An opportunity is represented as almost unavailable to discourage comparison or verification."
+    },
+    {
+      "id": "CP-172",
+      "chapter": 9,
+      "title": "Prize Notification Scam",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-173",
+      "chapter": 9,
+      "title": "Charity Impersonation",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-174",
+      "chapter": 9,
+      "title": "Investment Fraud",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-175",
+      "chapter": 9,
+      "title": "Ponzi Scheme",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-176",
+      "chapter": 9,
+      "title": "Pyramid Scheme",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-177",
+      "chapter": 9,
+      "title": "Pig-Butchering Scam",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-178",
+      "chapter": 9,
+      "title": "Overpayment Scam",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-179",
+      "chapter": 9,
+      "title": "Check-Kiting Narrative",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-180",
+      "chapter": 9,
+      "title": "Phantom Buyer",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-181",
+      "chapter": 10,
+      "title": "Embezzlement",
+      "type": "E",
+      "public_definition": "Entrusted money or property is wrongfully appropriated by someone with legitimate access."
+    },
+    {
+      "id": "CP-182",
+      "chapter": 10,
+      "title": "Asset Stripping",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-183",
+      "chapter": 10,
+      "title": "Undue Influence",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-184",
+      "chapter": 10,
+      "title": "Elder Financial Exploitation",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-185",
+      "chapter": 10,
+      "title": "Beneficiary Manipulation",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-186",
+      "chapter": 10,
+      "title": "Power-of-Attorney Abuse",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-187",
+      "chapter": 10,
+      "title": "Debt Bondage",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-188",
+      "chapter": 10,
+      "title": "Wage Theft",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-189",
+      "chapter": 10,
+      "title": "Payroll Ghosting",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-190",
+      "chapter": 10,
+      "title": "Procurement Fraud",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-191",
+      "chapter": 10,
+      "title": "Invoice Redirection",
+      "type": "E",
+      "public_definition": "Payment instructions are falsified to divert a legitimate transaction."
+    },
+    {
+      "id": "CP-192",
+      "chapter": 10,
+      "title": "Kickback",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-193",
+      "chapter": 10,
+      "title": "Bid Rigging",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-194",
+      "chapter": 10,
+      "title": "Trade-Based Money Laundering",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-195",
+      "chapter": 10,
+      "title": "Beneficial Ownership Concealment",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-196",
+      "chapter": 10,
+      "title": "Layering in Money Laundering",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-197",
+      "chapter": 10,
+      "title": "Structuring",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-198",
+      "chapter": 10,
+      "title": "Asset Recovery Impersonation",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-199",
+      "chapter": 10,
+      "title": "Financial Grooming",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-200",
+      "chapter": 10,
+      "title": "Inheritance Pressure",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-201",
+      "chapter": 11,
+      "title": "Sexual Coercion",
+      "type": "E",
+      "public_definition": "Pressure, threats, or misuse of power undermines freely given sexual consent."
+    },
+    {
+      "id": "CP-202",
+      "chapter": 11,
+      "title": "Grooming",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-203",
+      "chapter": 11,
+      "title": "Boundary Desensitization",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-204",
+      "chapter": 11,
+      "title": "Quid Pro Quo Harassment",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-205",
+      "chapter": 11,
+      "title": "Sexual Extortion",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-206",
+      "chapter": 11,
+      "title": "Nonconsensual Intimate Image Distribution",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-207",
+      "chapter": 11,
+      "title": "Image-Based Sexual Abuse",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-208",
+      "chapter": 11,
+      "title": "Consent under Dependency",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-209",
+      "chapter": 11,
+      "title": "Survival Sex",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-210",
+      "chapter": 11,
+      "title": "Commercial Sexual Exploitation",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-211",
+      "chapter": 11,
+      "title": "Sex Trafficking",
+      "type": "E",
+      "public_definition": "People are recruited, transported, or controlled for commercial sexual exploitation under applicable law."
+    },
+    {
+      "id": "CP-212",
+      "chapter": 11,
+      "title": "Trauma Bonding",
+      "type": "Q",
+      "public_definition": null
+    },
+    {
+      "id": "CP-213",
+      "chapter": 11,
+      "title": "Shame-Based Silencing",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-214",
+      "chapter": 11,
+      "title": "Victim-Blaming Script",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-215",
+      "chapter": 11,
+      "title": "Consent Misrepresentation",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-216",
+      "chapter": 11,
+      "title": "Intimacy Credentialing",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-217",
+      "chapter": 11,
+      "title": "Revenge Porn Labeling",
+      "type": "Q",
+      "public_definition": null
+    },
+    {
+      "id": "CP-218",
+      "chapter": 11,
+      "title": "Sexual Harassment",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-219",
+      "chapter": 11,
+      "title": "Coercive Secrecy",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-220",
+      "chapter": 11,
+      "title": "Retaliation for Disclosure",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-221",
+      "chapter": 12,
+      "title": "Organized Crime Enterprise",
+      "type": "E",
+      "public_definition": "A continuing association coordinates criminal activity for material benefit, influence, or control."
+    },
+    {
+      "id": "CP-222",
+      "chapter": 12,
+      "title": "Association-in-Fact Enterprise",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-223",
+      "chapter": 12,
+      "title": "Principal-Agent Problem",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-224",
+      "chapter": 12,
+      "title": "Cellular Organization",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-225",
+      "chapter": 12,
+      "title": "Brokerage Position",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-226",
+      "chapter": 12,
+      "title": "Gatekeeper Role",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-227",
+      "chapter": 12,
+      "title": "Enforcer Role",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-228",
+      "chapter": 12,
+      "title": "Cutout",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-229",
+      "chapter": 12,
+      "title": "Money Mule",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-230",
+      "chapter": 12,
+      "title": "Front Organization",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-231",
+      "chapter": 12,
+      "title": "Straw Person",
+      "type": "E",
+      "public_definition": "A nominal holder or participant acts on behalf of an undisclosed interested party."
+    },
+    {
+      "id": "CP-232",
+      "chapter": 12,
+      "title": "Compartmentalization",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-233",
+      "chapter": 12,
+      "title": "Plausible Deniability",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-234",
+      "chapter": 12,
+      "title": "Succession Rivalry",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-235",
+      "chapter": 12,
+      "title": "Patron-Client Network",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-236",
+      "chapter": 12,
+      "title": "Criminal Specialization",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-237",
+      "chapter": 12,
+      "title": "Network Redundancy",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-238",
+      "chapter": 12,
+      "title": "Trust-by-Compromise",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-239",
+      "chapter": 12,
+      "title": "Internal Informant Fear",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-240",
+      "chapter": 12,
+      "title": "Criminal Market Governance",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-241",
+      "chapter": 13,
+      "title": "Bribery",
+      "type": "E",
+      "public_definition": "A benefit is offered, requested, or received to improperly influence official or entrusted action."
+    },
+    {
+      "id": "CP-242",
+      "chapter": 13,
+      "title": "Honest-Services Fraud",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-243",
+      "chapter": 13,
+      "title": "Conflict of Interest",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-244",
+      "chapter": 13,
+      "title": "Regulatory Capture",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-245",
+      "chapter": 13,
+      "title": "State Capture",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-246",
+      "chapter": 13,
+      "title": "Institutional Betrayal",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-247",
+      "chapter": 13,
+      "title": "Selective Enforcement",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-248",
+      "chapter": 13,
+      "title": "Abuse of Discretion",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-249",
+      "chapter": 13,
+      "title": "Color of Law",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-250",
+      "chapter": 13,
+      "title": "Retaliatory Investigation",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-251",
+      "chapter": 13,
+      "title": "Process as Punishment",
+      "type": "D",
+      "public_definition": "The burden of a procedure itself becomes a sanction regardless of its eventual outcome."
+    },
+    {
+      "id": "CP-252",
+      "chapter": 13,
+      "title": "Recordkeeping Manipulation",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-253",
+      "chapter": 13,
+      "title": "Conflict-of-Interest Concealment",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-254",
+      "chapter": 13,
+      "title": "Patronage Appointment",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-255",
+      "chapter": 13,
+      "title": "Nepotism",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-256",
+      "chapter": 13,
+      "title": "Whistleblower Retaliation",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-257",
+      "chapter": 13,
+      "title": "Procedural Justice",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-258",
+      "chapter": 13,
+      "title": "Administrative Burden",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-259",
+      "chapter": 13,
+      "title": "Institutional Silence",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-260",
+      "chapter": 13,
+      "title": "Oversight Shopping",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-261",
+      "chapter": 14,
+      "title": "Stalking",
+      "type": "E",
+      "public_definition": "A repeated course of unwanted conduct creates fear or substantial distress under applicable definitions."
+    },
+    {
+      "id": "CP-262",
+      "chapter": 14,
+      "title": "Cyberstalking",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-263",
+      "chapter": 14,
+      "title": "Doxxing",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-264",
+      "chapter": 14,
+      "title": "Swatting",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-265",
+      "chapter": 14,
+      "title": "Harassment Campaign",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-266",
+      "chapter": 14,
+      "title": "Unwanted Surveillance",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-267",
+      "chapter": 14,
+      "title": "Location Tracking Abuse",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-268",
+      "chapter": 14,
+      "title": "Persistent Unwanted Contact",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-269",
+      "chapter": 14,
+      "title": "Proxy Harassment",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-270",
+      "chapter": 14,
+      "title": "Threatening Communications",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-271",
+      "chapter": 14,
+      "title": "Property Interference",
+      "type": "D",
+      "public_definition": "Tampering with or obstructing personal property becomes a means of intimidation or control."
+    },
+    {
+      "id": "CP-272",
+      "chapter": 14,
+      "title": "Impersonated Complaint",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-273",
+      "chapter": 14,
+      "title": "Workplace Sabotage",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-274",
+      "chapter": 14,
+      "title": "Ambient Intimidation",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-275",
+      "chapter": 14,
+      "title": "Harassment by Litigation",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-276",
+      "chapter": 14,
+      "title": "Obsessional Pursuit",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-277",
+      "chapter": 14,
+      "title": "Fixated Grievance",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-278",
+      "chapter": 14,
+      "title": "Victim-Precipitation Theory",
+      "type": "Q",
+      "public_definition": null
+    },
+    {
+      "id": "CP-279",
+      "chapter": 14,
+      "title": "Pattern-of-Life Inference",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-280",
+      "chapter": 14,
+      "title": "Privacy Boundary Erosion",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-281",
+      "chapter": 15,
+      "title": "Threat Assessment",
+      "type": "E",
+      "public_definition": "Structured information gathering evaluates the possibility of harm and suitable protective responses."
+    },
+    {
+      "id": "CP-282",
+      "chapter": 15,
+      "title": "Pathway to Violence",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-283",
+      "chapter": 15,
+      "title": "Grievance Formation",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-284",
+      "chapter": 15,
+      "title": "Leakage",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-285",
+      "chapter": 15,
+      "title": "Direct Threat",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-286",
+      "chapter": 15,
+      "title": "Veiled Threat",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-287",
+      "chapter": 15,
+      "title": "Conditional Threat",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-288",
+      "chapter": 15,
+      "title": "Escalation Pattern",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-289",
+      "chapter": 15,
+      "title": "De-escalation",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-290",
+      "chapter": 15,
+      "title": "Violence Risk Factor",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-291",
+      "chapter": 15,
+      "title": "Protective Factor",
+      "type": "E",
+      "public_definition": "A condition that can lessen risk or buffer against adverse outcomes."
+    },
+    {
+      "id": "CP-292",
+      "chapter": 15,
+      "title": "Warning Behavior",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-293",
+      "chapter": 15,
+      "title": "Target Fixation",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-294",
+      "chapter": 15,
+      "title": "Identification with Attackers",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-295",
+      "chapter": 15,
+      "title": "Novel Aggression",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-296",
+      "chapter": 15,
+      "title": "Behavioral Baseline",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-297",
+      "chapter": 15,
+      "title": "Stress-Related Performance Degradation",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-298",
+      "chapter": 15,
+      "title": "Threat Credibility Assessment",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-299",
+      "chapter": 15,
+      "title": "Target Hardening",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-300",
+      "chapter": 15,
+      "title": "Safety Planning",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-301",
+      "chapter": 16,
+      "title": "Modus Operandi",
+      "type": "E",
+      "public_definition": "The methods used to carry out an offense, which may adapt as circumstances change."
+    },
+    {
+      "id": "CP-302",
+      "chapter": 16,
+      "title": "Behavioral Signature",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-303",
+      "chapter": 16,
+      "title": "Staging",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-304",
+      "chapter": 16,
+      "title": "Undoing Behavior",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-305",
+      "chapter": 16,
+      "title": "Victimology",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-306",
+      "chapter": 16,
+      "title": "Crime Reconstruction",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-307",
+      "chapter": 16,
+      "title": "Linkage Analysis",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-308",
+      "chapter": 16,
+      "title": "Signature Fallacy",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-309",
+      "chapter": 16,
+      "title": "Overkill",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-310",
+      "chapter": 16,
+      "title": "Disorganized Scene Label",
+      "type": "Q",
+      "public_definition": null
+    },
+    {
+      "id": "CP-311",
+      "chapter": 16,
+      "title": "Organized Scene Label",
+      "type": "Q",
+      "public_definition": "An older profiling shorthand that can exaggerate the diagnostic meaning of planning or order."
+    },
+    {
+      "id": "CP-312",
+      "chapter": 16,
+      "title": "Crime Script",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-313",
+      "chapter": 16,
+      "title": "Routine Activity Theory",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-314",
+      "chapter": 16,
+      "title": "Situational Crime Prevention",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-315",
+      "chapter": 16,
+      "title": "Geographic Profiling",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-316",
+      "chapter": 16,
+      "title": "Journey-to-Crime Analysis",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-317",
+      "chapter": 16,
+      "title": "Offender Adaptation",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-318",
+      "chapter": 16,
+      "title": "Post-Offense Conduct",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-319",
+      "chapter": 16,
+      "title": "Staging-Contamination Distinction",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-320",
+      "chapter": 16,
+      "title": "Alternative-Scenario Reconstruction",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-321",
+      "chapter": 17,
+      "title": "Cognitive Interview",
+      "type": "E",
+      "public_definition": "A structured witness-interview method uses memory-supporting prompts to improve retrieval without supplying answers."
+    },
+    {
+      "id": "CP-322",
+      "chapter": 17,
+      "title": "Rapport-Based Interviewing",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-323",
+      "chapter": 17,
+      "title": "Investigative Interview",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-324",
+      "chapter": 17,
+      "title": "Accusatorial Interrogation",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-325",
+      "chapter": 17,
+      "title": "Leading Question",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-326",
+      "chapter": 17,
+      "title": "Presuppositional Question",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-327",
+      "chapter": 17,
+      "title": "False Confession",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-328",
+      "chapter": 17,
+      "title": "Compliant False Confession",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-329",
+      "chapter": 17,
+      "title": "Internalized False Confession",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-330",
+      "chapter": 17,
+      "title": "Voluntary False Confession",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-331",
+      "chapter": 17,
+      "title": "Interrogative Suggestibility",
+      "type": "E",
+      "public_definition": "A person is susceptible to adopting misleading suggestions during questioning."
+    },
+    {
+      "id": "CP-332",
+      "chapter": 17,
+      "title": "Demand Characteristics",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-333",
+      "chapter": 17,
+      "title": "Memory Distrust Syndrome",
+      "type": "Q",
+      "public_definition": null
+    },
+    {
+      "id": "CP-334",
+      "chapter": 17,
+      "title": "Minimization Theme",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-335",
+      "chapter": 17,
+      "title": "Maximization Theme",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-336",
+      "chapter": 17,
+      "title": "Confirmation-Seeking Interview",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-337",
+      "chapter": 17,
+      "title": "Interpreter-Mediated Distortion",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-338",
+      "chapter": 17,
+      "title": "Statement Evolution",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-339",
+      "chapter": 17,
+      "title": "Recorded-Interview Integrity",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-340",
+      "chapter": 17,
+      "title": "Open-Ended Elicitation",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-341",
+      "chapter": 18,
+      "title": "Chain of Custody",
+      "type": "E",
+      "public_definition": "A documented history of evidence collection, control, transfer, storage, and handling supports integrity assessment."
+    },
+    {
+      "id": "CP-342",
+      "chapter": 18,
+      "title": "Provenance",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-343",
+      "chapter": 18,
+      "title": "Evidence Authentication",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-344",
+      "chapter": 18,
+      "title": "Tampering",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-345",
+      "chapter": 18,
+      "title": "Fabricated Evidence",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-346",
+      "chapter": 18,
+      "title": "Spoliation",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-347",
+      "chapter": 18,
+      "title": "Metadata Ambiguity",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-348",
+      "chapter": 18,
+      "title": "Timestamp Normalization",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-349",
+      "chapter": 18,
+      "title": "Clock Drift",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-350",
+      "chapter": 18,
+      "title": "Hash Verification",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-351",
+      "chapter": 18,
+      "title": "Evidence Contamination",
+      "type": "E",
+      "public_definition": "Material is altered or mixed through collection, handling, or exposure to unrelated information."
+    },
+    {
+      "id": "CP-352",
+      "chapter": 18,
+      "title": "Contextual Bias",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-353",
+      "chapter": 18,
+      "title": "Blinded Examination",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-354",
+      "chapter": 18,
+      "title": "Circular Corroboration",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-355",
+      "chapter": 18,
+      "title": "Negative Evidence",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-356",
+      "chapter": 18,
+      "title": "Exculpatory Evidence",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-357",
+      "chapter": 18,
+      "title": "Inculpatory Evidence",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-358",
+      "chapter": 18,
+      "title": "Bayesian Evidence Updating",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-359",
+      "chapter": 18,
+      "title": "Alternative Hypothesis Testing",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-360",
+      "chapter": 18,
+      "title": "Evidence-to-Claim Traceability",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-361",
+      "chapter": 19,
+      "title": "Social Engineering",
+      "type": "E",
+      "public_definition": "Human trust, attention, or organizational routines are exploited to obtain access or information."
+    },
+    {
+      "id": "CP-362",
+      "chapter": 19,
+      "title": "Phishing",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-363",
+      "chapter": 19,
+      "title": "Spear Phishing",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-364",
+      "chapter": 19,
+      "title": "Whaling",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-365",
+      "chapter": 19,
+      "title": "Smishing",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-366",
+      "chapter": 19,
+      "title": "Vishing",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-367",
+      "chapter": 19,
+      "title": "Pretexting",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-368",
+      "chapter": 19,
+      "title": "Business Email Compromise",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-369",
+      "chapter": 19,
+      "title": "Helpdesk Impersonation",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-370",
+      "chapter": 19,
+      "title": "Callback Phishing",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-371",
+      "chapter": 19,
+      "title": "Quishing",
+      "type": "E",
+      "public_definition": "A malicious or misleading QR-code interaction directs a person toward phishing or another unsafe action."
+    },
+    {
+      "id": "CP-372",
+      "chapter": 19,
+      "title": "Consent Phishing",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-373",
+      "chapter": 19,
+      "title": "OAuth App Impersonation",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-374",
+      "chapter": 19,
+      "title": "Brand Spoofing",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-375",
+      "chapter": 19,
+      "title": "Lookalike Domain",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-376",
+      "chapter": 19,
+      "title": "Voice Cloning Scam",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-377",
+      "chapter": 19,
+      "title": "Deepfake Verification Failure",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-378",
+      "chapter": 19,
+      "title": "MFA Fatigue",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-379",
+      "chapter": 19,
+      "title": "Push Notification Abuse",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-380",
+      "chapter": 19,
+      "title": "Out-of-Band Verification",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-381",
+      "chapter": 20,
+      "title": "Account Takeover",
+      "type": "E",
+      "public_definition": "An unauthorized actor gains control of an existing digital account."
+    },
+    {
+      "id": "CP-382",
+      "chapter": 20,
+      "title": "Credential Stuffing",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-383",
+      "chapter": 20,
+      "title": "SIM Swapping",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-384",
+      "chapter": 20,
+      "title": "Identity Resolution Error",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-385",
+      "chapter": 20,
+      "title": "Account Attribution Gap",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-386",
+      "chapter": 20,
+      "title": "Session Hijacking",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-387",
+      "chapter": 20,
+      "title": "Synthetic Identity Fraud",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-388",
+      "chapter": 20,
+      "title": "Credential Marketplace",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-389",
+      "chapter": 20,
+      "title": "Ransomware Extortion",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-390",
+      "chapter": 20,
+      "title": "Double Extortion",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-391",
+      "chapter": 20,
+      "title": "Data Broker Exposure",
+      "type": "E",
+      "public_definition": "Commercial collection and resale of personal information create opportunities for unauthorized use."
+    },
+    {
+      "id": "CP-392",
+      "chapter": 20,
+      "title": "Reputation Score Gaming",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-393",
+      "chapter": 20,
+      "title": "Insider Threat",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-394",
+      "chapter": 20,
+      "title": "Privilege Misuse",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-395",
+      "chapter": 20,
+      "title": "Access Persistence",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-396",
+      "chapter": 20,
+      "title": "Digital Alibi Fallacy",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-397",
+      "chapter": 20,
+      "title": "Attribution by IP Address",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-398",
+      "chapter": 20,
+      "title": "Botnet-as-Audience",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-399",
+      "chapter": 20,
+      "title": "Credential Exposure Lag",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-400",
+      "chapter": 20,
+      "title": "Cybercrime-as-a-Service",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-401",
+      "chapter": 21,
+      "title": "Reflexive Control",
+      "type": "E",
+      "public_definition": "Selected information is supplied to influence the decisions an opponent chooses as their own."
+    },
+    {
+      "id": "CP-402",
+      "chapter": 21,
+      "title": "Maskirovka",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-403",
+      "chapter": 21,
+      "title": "Military Deception",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-404",
+      "chapter": 21,
+      "title": "Feint",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-405",
+      "chapter": 21,
+      "title": "Deception by Omission",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-406",
+      "chapter": 21,
+      "title": "Deception by Commission",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-407",
+      "chapter": 21,
+      "title": "Denial and Deception",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-408",
+      "chapter": 21,
+      "title": "False Flag",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-409",
+      "chapter": 21,
+      "title": "Provocation Operation",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-410",
+      "chapter": 21,
+      "title": "Agent of Influence",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-411",
+      "chapter": 21,
+      "title": "Disinformation",
+      "type": "E",
+      "public_definition": "False or misleading information is deliberately disseminated with intent to deceive."
+    },
+    {
+      "id": "CP-412",
+      "chapter": 21,
+      "title": "Misinformation",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-413",
+      "chapter": 21,
+      "title": "Malinformation",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-414",
+      "chapter": 21,
+      "title": "Perception Management",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-415",
+      "chapter": 21,
+      "title": "Strategic Ambiguity",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-416",
+      "chapter": 21,
+      "title": "Signaling",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-417",
+      "chapter": 21,
+      "title": "Credible Commitment",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-418",
+      "chapter": 21,
+      "title": "Deniable Intermediary",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-419",
+      "chapter": 21,
+      "title": "Deception Detection Overconfidence",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-420",
+      "chapter": 21,
+      "title": "Adversarial Hypothesis",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-421",
+      "chapter": 22,
+      "title": "Astroturfing",
+      "type": "E",
+      "public_definition": "Coordinated messaging is disguised as spontaneous grassroots support."
+    },
+    {
+      "id": "CP-422",
+      "chapter": 22,
+      "title": "Coordinated Inauthentic Behavior",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-423",
+      "chapter": 22,
+      "title": "Brigading",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-424",
+      "chapter": 22,
+      "title": "Dogpiling",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-425",
+      "chapter": 22,
+      "title": "Review Bombing",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-426",
+      "chapter": 22,
+      "title": "Algorithmic Amplification",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-427",
+      "chapter": 22,
+      "title": "Engagement Bait",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-428",
+      "chapter": 22,
+      "title": "Rage Bait",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-429",
+      "chapter": 22,
+      "title": "Context Collapse",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-430",
+      "chapter": 22,
+      "title": "Echo Chamber",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-431",
+      "chapter": 22,
+      "title": "Filter Bubble",
+      "type": "E",
+      "public_definition": "Personalized information selection can narrow what viewpoints a user encounters."
+    },
+    {
+      "id": "CP-432",
+      "chapter": 22,
+      "title": "Parasocial Relationship",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-433",
+      "chapter": 22,
+      "title": "Influencer Credibility Transfer",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-434",
+      "chapter": 22,
+      "title": "Hashtag Hijacking",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-435",
+      "chapter": 22,
+      "title": "Synthetic Consensus",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-436",
+      "chapter": 22,
+      "title": "Synthetic Persona Farm",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-437",
+      "chapter": 22,
+      "title": "Platform Affordance Abuse",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-438",
+      "chapter": 22,
+      "title": "Mass Reporting Abuse",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-439",
+      "chapter": 22,
+      "title": "Virality-Truth Confusion",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-440",
+      "chapter": 22,
+      "title": "Correction Asymmetry",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-441",
+      "chapter": 23,
+      "title": "High-Control Group",
+      "type": "E",
+      "public_definition": "A group restricts members' choices, contacts, information, or exit through sustained social pressure."
+    },
+    {
+      "id": "CP-442",
+      "chapter": 23,
+      "title": "Thought Reform",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-443",
+      "chapter": 23,
+      "title": "Milieu Control",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-444",
+      "chapter": 23,
+      "title": "Sacred Science Claim",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-445",
+      "chapter": 23,
+      "title": "Loaded Language",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-446",
+      "chapter": 23,
+      "title": "Confession Ritual as Control",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-447",
+      "chapter": 23,
+      "title": "Demand for Purity",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-448",
+      "chapter": 23,
+      "title": "Doctrine Over Person",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-449",
+      "chapter": 23,
+      "title": "Dispensing of Existence",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-450",
+      "chapter": 23,
+      "title": "Charismatic Authority",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-451",
+      "chapter": 23,
+      "title": "Identity Fusion",
+      "type": "E",
+      "public_definition": "A person's personal identity becomes strongly integrated with a group identity."
+    },
+    {
+      "id": "CP-452",
+      "chapter": 23,
+      "title": "Group Polarization",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-453",
+      "chapter": 23,
+      "title": "Moral Disengagement",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-454",
+      "chapter": 23,
+      "title": "Dehumanization",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-455",
+      "chapter": 23,
+      "title": "Conspiracy Mentality",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-456",
+      "chapter": 23,
+      "title": "Apophenia",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-457",
+      "chapter": 23,
+      "title": "Ideological Grooming",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-458",
+      "chapter": 23,
+      "title": "Exit Cost Inflation",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-459",
+      "chapter": 23,
+      "title": "Purity Test",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-460",
+      "chapter": 23,
+      "title": "Radicalization Pathway",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-461",
+      "chapter": 24,
+      "title": "Acute Stress Response",
+      "type": "E",
+      "public_definition": "Immediate physiological and cognitive reactions follow a threatening or overwhelming event."
+    },
+    {
+      "id": "CP-462",
+      "chapter": 24,
+      "title": "Post-Traumatic Stress Disorder",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-463",
+      "chapter": 24,
+      "title": "Dissociation",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-464",
+      "chapter": 24,
+      "title": "Hypervigilance",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-465",
+      "chapter": 24,
+      "title": "Learned Helplessness",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-466",
+      "chapter": 24,
+      "title": "Tonic Immobility",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-467",
+      "chapter": 24,
+      "title": "Freeze Response",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-468",
+      "chapter": 24,
+      "title": "Fawn Response",
+      "type": "Q",
+      "public_definition": null
+    },
+    {
+      "id": "CP-469",
+      "chapter": 24,
+      "title": "Traumatic Bereavement",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-470",
+      "chapter": 24,
+      "title": "Betrayal Trauma",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-471",
+      "chapter": 24,
+      "title": "Secondary Victimization",
+      "type": "E",
+      "public_definition": "Institutional or social responses cause additional harm after the original incident."
+    },
+    {
+      "id": "CP-472",
+      "chapter": 24,
+      "title": "Victim Impact",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-473",
+      "chapter": 24,
+      "title": "Safety-Seeking Behavior",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-474",
+      "chapter": 24,
+      "title": "Disclosure Delay",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-475",
+      "chapter": 24,
+      "title": "Shame Response",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-476",
+      "chapter": 24,
+      "title": "Survivor Guilt",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-477",
+      "chapter": 24,
+      "title": "Post-Traumatic Growth",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-478",
+      "chapter": 24,
+      "title": "Restorative Justice",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-479",
+      "chapter": 24,
+      "title": "Trauma-Informed Practice",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-480",
+      "chapter": 24,
+      "title": "Resilience Factors",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-481",
+      "chapter": 25,
+      "title": "Falsifiability",
+      "type": "E",
+      "public_definition": "A proposition must allow observations that could demonstrate it is wrong."
+    },
+    {
+      "id": "CP-482",
+      "chapter": 25,
+      "title": "Null Hypothesis",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-483",
+      "chapter": 25,
+      "title": "Selection Bias",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-484",
+      "chapter": 25,
+      "title": "Survivorship Bias",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-485",
+      "chapter": 25,
+      "title": "Collider Bias",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-486",
+      "chapter": 25,
+      "title": "Confounding Variable",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-487",
+      "chapter": 25,
+      "title": "Reverse Causation",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-488",
+      "chapter": 25,
+      "title": "Correlation-Causation Error",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-489",
+      "chapter": 25,
+      "title": "Texas Sharpshooter Fallacy",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-490",
+      "chapter": 25,
+      "title": "Prosecutor's Fallacy",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-491",
+      "chapter": 25,
+      "title": "Ecological Fallacy",
+      "type": "E",
+      "public_definition": "Group-level statistics are improperly applied to the behavior of a particular individual."
+    },
+    {
+      "id": "CP-492",
+      "chapter": 25,
+      "title": "Base-Rate Calibration",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-493",
+      "chapter": 25,
+      "title": "Pre-Registration",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-494",
+      "chapter": 25,
+      "title": "Independent Replication",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-495",
+      "chapter": 25,
+      "title": "Adversarial Collaboration",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-496",
+      "chapter": 25,
+      "title": "Red-Team Review",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-497",
+      "chapter": 25,
+      "title": "Evidence Ladder",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-498",
+      "chapter": 25,
+      "title": "Attribution Confidence",
+      "type": "E",
+      "public_definition": null
+    },
+    {
+      "id": "CP-499",
+      "chapter": 25,
+      "title": "Defamation Risk Review",
+      "type": "D",
+      "public_definition": null
+    },
+    {
+      "id": "CP-500",
+      "chapter": 25,
+      "title": "Correction Protocol",
+      "type": "D",
+      "public_definition": null
+    }
+  ]
+}

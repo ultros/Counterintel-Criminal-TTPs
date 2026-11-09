@@ -1,0 +1,24 @@
+name: Validate terminology index
+on:
+  push:
+    paths:
+      - 'terminology/**'
+      - 'scripts/validate_terminology.py'
+      - '.github/workflows/validate-terminology.yml'
+  pull_request:
+    paths:
+      - 'terminology/**'
+      - 'scripts/validate_terminology.py'
+      - '.github/workflows/validate-terminology.yml'
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Validate taxonomy
+        run: python scripts/validate_terminology.py
